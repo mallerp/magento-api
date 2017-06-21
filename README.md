@@ -110,6 +110,8 @@
 * [`设置账单地址`](https://github.com/mallerp/magento-api/blob/master/checkout.md#setBillingAddress)
 * [`设置配送方式`](https://github.com/mallerp/magento-api/blob/master/checkout.md#setShippingMethod)
 * [`设置支付方式`](https://github.com/mallerp/magento-api/blob/master/checkout.md#setPaymentMethod)
+* [`设置CREDIT`](https://github.com/mallerp/magento-api/blob/master/checkout.md#setUseCredit)
+* [`设置订单备注信息`](https://github.com/mallerp/magento-api/blob/master/checkout.md#setOrderComment)
 * [`订单预览`](https://github.com/mallerp/magento-api/blob/master/checkout.md#orderReview)
 * [`根据设置生成订单`](https://github.com/mallerp/magento-api/blob/master/checkout.md#createOrder)
 * [`根据设置生成订单流程`](https://github.com/mallerp/magento-api/blob/master/checkout.md#payFlow)

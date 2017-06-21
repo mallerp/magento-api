@@ -36,7 +36,7 @@
 
 ---------------------------------------
 <a name="SocialLogin" />
-### 登录
+### 社交账号登录
 
 **`GET` `/mobileapi/customer/SocialLogin`**
 
