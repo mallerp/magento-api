@@ -9,6 +9,7 @@
 ### 用户
 
 * [`登录`](https://github.com/mallerp/magento-api/blob/master/customer.md#login)
+* [`第三方登录`](https://github.com/mallerp/magento-api/blob/master/customer.md#SocialLogin)
 * [`获取登录状态`](https://github.com/mallerp/magento-api/blob/master/customer.md#loginStatus)
 * [`用户注册`](https://github.com/mallerp/magento-api/blob/master/customer.md#register)
 * [`退出登录`](https://github.com/mallerp/magento-api/blob/master/customer.md#logout)
