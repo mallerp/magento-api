@@ -213,7 +213,7 @@
         }
 }
 ```
-<a name="getOrderDetail" />
+<a name="getOrderLogistics" />
 ### 获取订单物流跟踪信息
 
 **`GET` `/mobileapi/order/trackOrder`**
