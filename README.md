@@ -32,7 +32,6 @@
 ### 商品
 
 * [`商品详情`](https://github.com/mallerp/magento-api/blob/master/product.md#getProductDetail)
-* [`商品图片列表`](https://github.com/mallerp/magento-api/blob/master/product.md#getProductImages)
 * [`获取商品自定义选项`](https://github.com/mallerp/magento-api/blob/master/product.md#getProductCustomeTags)
 * [`获取商品自定义属性`](https://github.com/mallerp/magento-api/blob/master/product.md#getProductCustomeValue)
 * [`获取其他用户浏览记录`](https://github.com/mallerp/magento-api/blob/master/product.md#getOthersVisitProduct)
