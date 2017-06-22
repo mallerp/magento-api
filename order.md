@@ -227,7 +227,7 @@
 **_Examples_**
 
 ```js
-/mobileapi/order/getorder?order_id=2
+/mobileapi/order/trackOrder?order_id=2
 ```
 
 **_Response_**
