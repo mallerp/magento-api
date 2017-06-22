@@ -42,14 +42,9 @@
 
 
 ### 首页
-
-* [`限时秒杀`](https://github.com/mallerp/magento-api/blob/master/index.md#dailySale)
-* [`热卖商品`](https://github.com/mallerp/magento-api/blob/master/index.md#bestSale)
-* [`预售新品`](https://github.com/mallerp/magento-api/blob/master/index.md#comingSoonSale)
+* [`获取首页全部内容区块`](https://github.com/mallerp/magento-api/blob/master/index.md#all)
 * [`指定目录的产品列表`](https://github.com/mallerp/magento-api/blob/master/index.md#catelogSale)
 * [`搜索产品`](https://github.com/mallerp/magento-api/blob/master/index.md#indexSearch)
-* [`搜索结果数量`](https://github.com/mallerp/magento-api/blob/master/index.md#getSearchNum)
-* [`获取主菜单`](https://github.com/mallerp/magento-api/blob/master/index.md#getMainMenu)
 * [`获取二级菜单的商品`](https://github.com/mallerp/magento-api/blob/master/index.md#getSecProduct)
 
 
