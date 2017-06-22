@@ -507,6 +507,105 @@
 ```
 
 ---------------------------------------
+<a name="setUseCredit" />
+### 设置CREDIT
+
+
+**`POST` `/mobileapi/cart/useCredit`**
+
+设置CREDIT，需要带`cookies`.
+
+**_Paramers_**
+
+**_Form_**
+
+* `mw_storecredit_value` - 需要使用的CREDIT金额
+
+* `mw_remove_storecredit` - 需要取消Credit-传值1
+
+
+**_Examples_**
+
+```js
+/mobileapi/cart/useCredit
+
+
+**_Response_**
+
+```js
+{
+	"code":0,
+	"msg":"The credit has cancelled successfully.",
+	"model":null
+}
+```
+
+---------------------------------------
+
+<a name="getUseCredit" />
+### 获取可用CREDIT
+
+
+**`POST` `/mobileapi/cart/getCredit`**
+
+设置CREDIT，需要带`cookies`.
+
+**_Paramers_**
+
+**_Form_**
+
+**_Examples_**
+
+```js
+/mobileapi/cart/getCredit
+
+
+**_Response_**
+
+```js
+{
+    "code": 0,
+    "msg": "get Store Credit success",
+    "model": {
+        "max_credit": "30.0000",
+        "min_credit": "0.0000"
+    }
+}
+```
+
+---------------------------------------
+
+<a name="setOrderComment" />
+### 设置订单备注信息
+
+
+**`POST` ` /mobileapi/checkout/setOrderComment`**
+
+设置CREDIT，需要带`cookies`.
+
+**_Paramers_**
+
+**_Form_**
+order-comment
+order-comment1
+order-comment2
+**_Examples_**
+
+```js
+/mobileapi/checkout/setOrderComment
+
+
+**_Response_**
+
+```js
+{
+    "code": 0,
+    "msg": "save order comment success!",
+    "model": null
+}
+```
+
+---------------------------------------
 
 <a name="orderReview" />
 ### 订单预览

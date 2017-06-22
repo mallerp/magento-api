@@ -51,6 +51,7 @@
 
 <a name="getProductCustomeTags" />
 ### 获取商品自定义选项
+
 **`GET` `/mobileapi/products/getCustomOption`**
 
 商品选项接口，不需要带`cookies`.

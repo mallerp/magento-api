@@ -120,9 +120,3 @@
 * [`设置默认货币`](https://github.com/mallerp/magento-api/blob/master/currency.md#setCurrency)
 * [`获取当前设置的货币`](https://github.com/mallerp/magento-api/blob/master/currency.md#getCurrency)
 
-
-### 静态页面 (以下为静态页面的地址)
-* [`法律-隐私声明`](https://github.com/mallerp/magento-api/blob/master/static.md#index)
-* [`法律-条款`](https://github.com/mallerp/magento-api/blob/master/static.md#index)
-* [`帮助信息`](https://github.com/mallerp/magento-api/blob/master/static.md#index)
-

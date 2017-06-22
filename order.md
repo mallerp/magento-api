@@ -213,3 +213,35 @@
         }
 }
 ```
+<a name="getOrderDetail" />
+### 获取订单物流跟踪信息
+
+**`GET` `/mobileapi/order/trackOrder`**
+
+获取订单详细信息，需要带`cookies`.
+
+**_Paramers_**
+
+* `order_id` - 订单id
+
+**_Examples_**
+
+```js
+/mobileapi/order/getorder?order_id=2
+```
+
+**_Response_**
+
+```js
+
+{
+    "code": 0,
+    "msg": null,
+    "model": {
+        "track_url": [
+            "https://17track.net/en/externalcall?nums=6572494165"
+        ]
+    }
+}
+
+```
